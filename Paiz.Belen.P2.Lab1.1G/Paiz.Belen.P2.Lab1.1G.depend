@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1656717786 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656717850 d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\linkedlist.h
+
+1656723081 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movie.h"
+	"controller.h"
+
+1656722108 d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\movie.h
+	"LinkedList.h"
+
+1656723081 d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\controller.h
+	"LinkedList.h"
+
+1656723163 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"controller.h"
+	"movie.h"
+	"validar.h"
+	"parser.h"
+
+1656714714 d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\validar.h
+
+1656716036 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movie.h"
+
+1656714794 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validar.h"
+
+1656722081 source:d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movie.h"
+	"validar.h"
+	<time.h>
+
+1656715605 d:\usuarios\belen\documentos\programacion1\paiz.belen.p2.lab1.1g\parser.h
+
